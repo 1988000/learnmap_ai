@@ -75,3 +75,34 @@ Virtualenv
 📜 License
 
 MIT License EOQ
+## Demo Script
+
+**Project:** LearnMap AI – AI-powered documentation generator  
+**Author:** Evans Langat
+
+### Introduction
+Hello, my name is Evans Langat. LearnMap AI automatically reads code from a GitHub repository and generates clear, structured documentation in Markdown or HTML. It is built using Python and Jaseci.
+
+### Project Overview
+Key features:
+- Reads all source code in a repository.
+- Generates organized documentation for each module and function.
+- Outputs documentation to the `output/` folder for easy review.
+- Supports integration with GitHub for future updates.
+
+### Demo Walkthrough
+1. Project folder structure:
+
+learnmap_ai/
+├── src/
+├── output/
+├── main.py
+└── README.md
+
+less
+Copy code
+
+2. Run the main script:
+
+```bash
+python main.py
