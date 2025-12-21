@@ -60,7 +60,8 @@ python src/driver.py
 
 Add your demo video link here once uploaded:
 
-https://your-demo-link.com
+https://drive.google.com/file/d/1hWJe2ZxiD-KgBYO36Go9i6dgVdlKBuaG/view?usp=drive_link
+
 
 🔧 Technologies Used
 
